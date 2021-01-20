@@ -8,7 +8,7 @@ pip install random
 *What?You didn't have Pip?*
 
 use
-```
+```shell
 python main.py
 ```
 *What?You didn't have Python?*
