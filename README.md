@@ -1,6 +1,12 @@
 # unreadable-rubbish-text-generater
 unreadable rubbish text generater
 
+install dependent by
+```shell
+pip install random
+```
+*What?You didn't have Pip?*
+
 use
 ```
 python main.py
